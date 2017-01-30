@@ -23,8 +23,6 @@
     https://tools.ietf.org/rfc/index
 * Bortzmeyer blog => curation RFC
     http://www.bortzmeyer.org/
-* IANA
-    http://www.iana.org/
     
 #HSLIDE
 ###### A Brief History
