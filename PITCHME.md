@@ -145,8 +145,8 @@ Le fournisseur d'accès associatif
 * Fédération fdn https://www.ffdn.org/
 
 #HSLIDE
-##### La Fibre et la fibre
-"Le monde se divise en 2 catégories ..." Définies par l'ARCEP
+##### "Le monde se divise en 2 catégories ..."
+Définies par l'ARCEP
 * Zones conventionnées
   * 60% des logements
   * zones très denses
@@ -164,7 +164,8 @@ Le fournisseur d'accès associatif
 http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
 
 #HSLIDE
-#### Plusieurs types de déploiment
+#### La Fibre et ... la fibre
+Plusieurs types de déploiments:
 * FTTH Fiber To The Home (WE WANT!) 
 * FTTB Fiber To The Building (type "Miséricable" Numéricable)
 * FTTDP Fiber To The Distribution Point ("Montée en débit" VDSL2+)
