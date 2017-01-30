@@ -45,8 +45,8 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 * Optique (Mats mécaniques forment des lettres)
 * Diurne seulement !
 * Lent !
-  * 15 caractères/minute
-  * 9 minutes de latence sur Paris-Lille (15 tours relais)
+  * 15 caractères/min
+  * PING à 9 min sur Paris-Lille (15 relais)
 * Cher (des milliers d'opérateurs sur le réseau)
 * Deployment compliqué (1 tour/10 - 15 km)
 * Unsecure by design
@@ -101,29 +101,47 @@ https://www.arcep.fr
 
 #HSLIDE?image=/img/terror-cat.jpeg
 # MAIS Pourquoi J'aI PAS LA FIBRE ?
-:cat: !
+
+#HSLIDE 
+###### Le coût de la fibre
+* La fibre: de quelques centimes à 2 €/metre selon le type et la quantité
+* Fourreau: même topo que la fibre
+* Un tranchée dans un champs : 10 €/metre
+* Un metre de tranchée en ville: 400 €/metre
+* Cout moyen de raccordement 2000€ par foyer
+
+- - -
+* http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
+* http://www.journaldunet.com/0611/061113-ftth.shtml
 
 #HSLIDE
 ##### Le déployment du réseau fibre
 
-Contrairement a tous les autres réseaux existants(eau, gas, électricité) il n'est pas déployé par un monopole public !
+Contrairement à tous les autres réseaux existants (eau, gas, électricité) il n'est pas déployé par un monopole public !
 
-* Malgré des similarités
-  * eau & gaz pour l'aspect voirie
-  * électrique pour l'aspect cablage
+* Aucune mutualisation avec les réseaux :
+  * eau & gaz pour l'aspect voirie (mutualisation de tranchées)
+  * électrique pour l'aspect cablage (mutualisation de fourreaux)
 
 - - - 
 https://numaparis.ubicast.tv/videos/21-06-2013-201824/
 
+#VSLIDE
+##### La FDN
+###### French Data Network
+Le fournisseur d'acces associatif
+* https://www.fdn.fr/
+* https://blog.fdn.fr/
+
+
 #HSLIDE
 ##### La Fibre et la fibre
-    "Le monde se divise en 2 catégories ..."
-Définie par l'arcep comme "zones"
-* conventionnées
+"Le monde se divise en 2 catégories ..." Définies par l'ARCEP
+* Zone conventionnées
   * 60% des logements
   * zone très denses
   * très rentables
-* non-conventionnées:
+* Zone non-conventionnées:
   * manque d'attractivitée du au cout de déployment
   * piège des conventions AMII
 
@@ -136,8 +154,7 @@ Définie par l'arcep comme "zones"
 http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
 
 #HSLIDE
-#### La FIBRE !
-    Différente technos
+#### Plusieurs type de deployment
 * FTTH Fiber To The Home (WE WANT!) 
 * FTTB Fiber To The Building (type "Miséricable" Numéricable)
 * FTTDP Fiber To The Distribution Point ("Montée" en débit VDSL2+)
@@ -147,20 +164,7 @@ http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-
 
 ###### Infra en cours de déployment depuis les années 2000
 ###### Le cout de l'infrastructure fibre
-* La fibre: de quelques centimes à 2 €/metre selon le type et la quantité
-* Fourreau: même topo que la fibre
-* Un tranchée dans un champs : 10 €/metre
-* Un metre de tranchée en ville: 400 €/metre
 
-- - -
-http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
-
-#HSLIDE
-#### Infrastructure fibre
-
-###### Infra en cours de déployment depuis les années 2000
-###### Le cout de l'infrastructure fibre
-* Cout moyen de raccordement 2000€ par foyer
 
 
 #HSLIDE
