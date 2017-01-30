@@ -137,7 +137,7 @@ Contrairement à tous les autres réseaux existants (eau, gaz, électricité, t�
 https://numaparis.ubicast.tv/videos/21-06-2013-201824/
 
 #VSLIDE
-##### La FDN
+##### Bayart / La (F)FDN
 ###### French Data Network
 Le fournisseur d'accès associatif
 * https://www.fdn.fr/
@@ -174,19 +174,29 @@ Plusieurs types de déploiments:
 http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne-idee-pour-la-france-39775634.htm
 
 #HSLIDE
+###### Le "Plan THD"
+* Lancé en 2012
+* 100% de couverture THD (> 30Mbps) d'ici 2022
+  * dont 80% de FTTH
+
+- - - 
+* http://www.zdnet.fr/actualites/le-tres-haut-debit-en-france-mix-ou-soupe-technologique-39799489.htm
+* http://www.francethd.fr/
+
+#HSLIDE
 ##### Conclusion T'as Pas La Fibre parce que:
 * t'es toujours plus rentable sur du cuivre - souvent même en zone conventionnée
 * L'investissement nécessaire est conséquent
 * Un deploiement privé expérimental
 * Les Michus s'en foutent (30Mo xDSL vs  50 - 100 Mo FTTx ? surcoût ? Duh)
 
-
 #HSLIDE
 #### Organismes
 * ftthcouncil http://ftthcouncil.eu/
-* arcep http://arcep.fr
+* ARCEP http://arcep.fr
+* BEREC http://www.berec.europa.eu/
 * franceTHD https://francethd.fr/
-* cidr http://www.cidr-report.org/as2.0/
+* CIDR http://www.cidr-report.org/as2.0/
 * iana & afnic http://iana.org/ & http://www.afnic.fr
 * ietf http://ietf.org/
 
