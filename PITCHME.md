@@ -138,11 +138,11 @@ Le fournisseur d'accès associatif
 #HSLIDE?image=/img/clinty.jpeg
 ##### La Fibre et la fibre
 "Le monde se divise en 2 catégories ..." Définies par l'ARCEP
-* Zone conventionnées
+* Zones conventionnées
   * 60% des logements
-  * zone très denses
+  * zones très denses
   * rentables
-* Zone non-conventionnées:
+* Zones non-conventionnées:
   * manque d'attractivité dû au coût de déploiement
   * piège des conventions AMII
 
