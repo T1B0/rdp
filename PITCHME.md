@@ -54,7 +54,7 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 
 #VSLIDE
 ###### Télecommunication étymologie
-"Télécomunication" (Mot inventé en 1904 à l'ENST)
+"Télécomunication" (Mot inventé en 1904 à l'école des postes & télégraphes)
 * Tele - grec (τηλε-) "Loin"
 * communicare - latin "Partager"
 
