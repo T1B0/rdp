@@ -26,17 +26,20 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 
 #HSLIDE
 ###### A Brief History
-#### Phase 3
+#### Plus récement 
 * 1950 - essort des boucles locales cuivre US
 * 1964 - 1ère utilisation du Laser + Fibre Optique (Charles Kao => prix Nobel de physique 2009)
 * 1970 - essort des boucles locales cuivre  EU
 * 1980 - début de l'utilisation de fibre optique dans les backbones opérateurs
 
 
-* France
-  * 1991 - Oléane ! 1ère offre ip entreprise
-  * 1999 - Netissimo by Wanadoo ! 1ère offre ADSL commerciale grand public
-  * 2007 - "La Fibre" by orange ! 1èere offre FTTx commerciale grand public
+#VSLIDE
+###### A Brief History
+#### Internet En France
+
+* 1991 - Oléane ! 1ère offre ip entreprise
+* 1999 - Netissimo by Wanadoo ! 1ère offre ADSL commerciale grand public
+* 2007 - "La Fibre" by orange ! 1èere offre FTTx commerciale grand public
 
 - - -
 http://www.itespresso.fr/fibre-optique-a-domicile-orange-inaugure-sa-premiere-offre-commerciale-17822.html
@@ -56,6 +59,9 @@ http://www.letenneur.com/histoirefai.htm
 
 - - -
 http://www.arcep.fr/?id=6989
+
+#VSLIDE
+#### ARCEP
 
 #HSLIDE
 # MAIS Pourquoi J'aI PAS LA FIBRE ?
