@@ -43,7 +43,7 @@ https://fr.wikipedia.org/wiki/Histoire_des_t%C3%A9l%C3%A9communications
 histoire du télégraphe
 http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegraphe
 
-* Optique (mats mécaniques observés à la longue vues)
+* Optique (mats mécaniques & longues vues)
 * Diurne & par beaux temps uniquement
 * Lent
   * 15 caractères/min
