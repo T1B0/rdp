@@ -104,11 +104,11 @@ https://www.arcep.fr
 
 #HSLIDE 
 ###### Le coût de la fibre
-* La fibre: de quelques centimes à 2 €/metre selon le type et la quantité
+* La fibre: de quelques centimes à 2 €/mètre selon le type et la quantité
 * Fourreau: même topo que la fibre
-* Un tranchée dans un champs : 10 €/metre
-* Un metre de tranchée en ville: 400 €/metre
-* Cout moyen de raccordement 2000€ par foyer
+* Une tranchée dans un champs : 10 €/mètre
+* Une tranchée en ville: 400 €/mètre
+* Coût moyen de raccordement 2000 €/foyer
 
 - - -
 * http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
@@ -134,7 +134,7 @@ Le fournisseur d'acces associatif
 * https://blog.fdn.fr/
 
 
-#HSLIDE
+#HSLIDE?image=/img/gbu.jpg
 ##### La Fibre et la fibre
 "Le monde se divise en 2 catégories ..." Définies par l'ARCEP
 * Zone conventionnées
