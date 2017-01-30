@@ -159,16 +159,20 @@ http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-
 * FTTB Fiber To The Building (type "Miséricable" Numéricable)
 * FTTDP Fiber To The Distribution Point ("Montée" en débit VDSL2+)
 
-#HSLIDE
-#### Infrastructure fibre
-
-###### Infra en cours de déployment depuis les années 2000
-###### Le cout de l'infrastructure fibre
-
-
+- - -
+http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne-idee-pour-la-france-39775634.htm
 
 #HSLIDE
-* Fibre Sous-Marin
-  * France dans les leaders mondiaux 
+###### Conclusion
 
-http://www.submarinecablemap.com/
+* Un abonné est toujours plus rentable sur du cuivre, souvent même en zone conventionnée
+* L'investissement nécéssaire est conséquent
+* Deployements privés - très peu orchestrés ou chapeautés
+* Les Michus s'en foutent (30Mo ? 100 Mo ? Duh)
+
+
+# Links 
+
+* http://ftthcouncil.eu/
+* http://www.cidr-report.org/as2.0/
+* http://www.submarinecablemap.com/
