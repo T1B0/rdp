@@ -117,7 +117,7 @@ https://www.arcep.fr
 #HSLIDE
 ##### Le déployment du réseau fibre
 
-Contrairement à tous les autres réseaux existants (eau, gas, électricité) il n'est pas déployé par un monopole public !
+Contrairement à tous les autres réseaux existants (eau, gas, électricité, téléphone) il n'est pas déployé par un monopole public !
 
 * Aucune mutualisation avec les réseaux :
   * eau & gaz pour l'aspect voirie (mutualisation de tranchées)
