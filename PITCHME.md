@@ -8,13 +8,15 @@
 #HSLIDE
 ###### A Brief History
 ### le niveau 0
-* ∞  Le messager
-* 1200 BC Homer mentionne l'utilisation de feux de signalisation dans l'odysee
+* ∞ Le poney rutillant (Le messager)
+* 1200 BC Feux de signalisations (Homer l'Odysee)
 * 700 BC Pigeons utilisés pour les jeux grecs (rfc 1149)
+
 - - -
  https://tools.ietf.org/html/rfc1149
 
 #VSLIDE
+##### Le monde merveilleux des RFC
 * IETF RFC's
     https://tools.ietf.org/rfc/index
 * Bortzmeyer blog => curation RFC
@@ -26,15 +28,28 @@
 ###### A Brief History
 ##### Le grand bricolage
 ###### (mécanique, optique, puis électrique)
-* 1791 - télégraphe de Chappe (optique, diurne, cher, lent - 15 caractère/min)
+* 1791 - Télégraphe de Chappe
 * 1844 - Télégraphe éléctrique de Morse
 * 1857 - Pantélégraphe (ancetre du fax - over Morse !)
 * 1877 - Première ligne Téléphonique (Boston)
 * 1902 - Création du mot Télécomunication 
 - - -
-http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegraphe
+https://fr.wikipedia.org/wiki/Histoire_des_t%C3%A9l%C3%A9communications
 
 #VSLIDE
+#### Le télégraphe de Chappe
+
+histoire du télégraphe
+http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegraphe
+
+* Optique (Mats mécaniques forment des lettres)
+* Diurne seulement !
+* Lent !
+  * 15 caractères/minute
+  * 9 minutes de latence sur Paris-Lille (15 tours relais)
+* Cher (des milliers d'opérateurs sur le réseau)
+* Deployment compliqué (1 tour/10 - 15 km)
+* Unsecure by design
 
 #HSLIDE
 ###### A Brief History
@@ -69,8 +84,8 @@ http://www.letenneur.com/histoirefai.htm
 * Dégroupé depuis 2002
 
 - - -
-http://www.arcep.fr/uploads/tx_gspublication/consult-boucle-cuivre0405.pdf
-http://www.arcep.fr/?id=6989 # dossier dégroupage
+* http://www.arcep.fr/uploads/tx_gspublication/consult-boucle-cuivre0405.pdf
+* http://www.arcep.fr/?id=6989 # dossier dégroupage
 
 #VSLIDE
 #### Regulateurs
@@ -84,7 +99,7 @@ http://www.arcep.fr/?id=6989 # dossier dégroupage
 https://www.anfr.fr/
 https://www.arcep.fr
 
-#HSLIDE
+#HSLIDE?image=/img/terror-cat.jpeg
 # MAIS Pourquoi J'aI PAS LA FIBRE ?
 :cat: !
 
