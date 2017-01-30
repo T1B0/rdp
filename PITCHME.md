@@ -43,9 +43,9 @@ https://fr.wikipedia.org/wiki/Histoire_des_t%C3%A9l%C3%A9communications
 histoire du télégraphe
 http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegraphe
 
-* Optique (Mats mécaniques forment des lettres)
-* Diurne seulement !
-* Lent !
+* Optique (mats mécaniques observés à la longue vues)
+* Diurne & par beaux temps uniquement
+* Lent
   * 15 caractères/min
   * PING à 9 min sur Paris-Lille (15 relais)
 * Cher (des milliers d'opérateurs sur le réseau)
