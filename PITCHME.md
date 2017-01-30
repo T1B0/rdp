@@ -163,9 +163,7 @@ http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-
 http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne-idee-pour-la-france-39775634.htm
 
 #HSLIDE
-##### Conclusion
-
-###### T'as Pas La Fibre parce que:
+##### Conclusion T'as Pas La Fibre parce que:
 * t'est toujours plus rentable sur du cuivre - souvent même en zone conventionnée
 * L'investissement nécéssaire est conséquent
 * Un deployement privé experimental
