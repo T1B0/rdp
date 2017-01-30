@@ -174,8 +174,27 @@ http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne
 * Les Michus s'en foutent (30Mo ? 100 Mo ? Duh)
 
 
-# Links 
+#HSLIDE
+#### Organismes
+* ftthcouncil http://ftthcouncil.eu/
+* arcep http://arcep.fr
+* franceTHD https://francethd.fr/
+* cidr http://www.cidr-report.org/as2.0/
+* iana & icann http://iana.org/ & https://www.icann.org/
+* ietf http://ietf.org/
 
-* http://ftthcouncil.eu/
-* http://www.cidr-report.org/as2.0/
-* http://www.submarinecablemap.com/
+#VSLIDE
+##### Assoc
+* FrNoG http://www.frnog.org
+* la FDN https://www.fdn.fr/
+* la Quadrature du net https://www.laquadrature.net/
+* Les Exégètes Amateurs https://exegetes.eu.org/
+* Il était une fois les Internet http://www.iletaitunefoisinternet.fr/
+
+#VSLIDE
+#### People
+* Benjamin Bayard https://blog.fdn.fr/
+* Marc Rees https://www.nextinpact.com/
+* Pierre Col http://www.pierrecol.com/fr/presse.html
+* Bortzmeyer http://www.bortzmeyer.org/
+* Bruno Spiquel (Turblog) http://blog.spyou.org/wordpress-mu/
