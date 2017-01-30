@@ -14,9 +14,18 @@
 - - -
  https://tools.ietf.org/html/rfc1149
 
+#VSLIDE
+* IETF RFC's
+    https://tools.ietf.org/rfc/index
+* Bortzmeyer blog => curation RFC
+    http://www.bortzmeyer.org/
+* IANA
+    http://www.iana.org/
+    
 #HSLIDE
 ###### A Brief History
-##### Le grand bricolage (mécanique, optique, puis électrique)
+##### Le grand bricolage
+###### (mécanique, optique, puis électrique)
 * 1791 - télégraphe de Chappe (optique, diurne, cher, lent - 15 caractère/min)
 * 1844 - Télégraphe éléctrique de Morse
 * 1857 - Pantélégraphe (ancetre du fax - over Morse !)
@@ -66,12 +75,10 @@ http://www.arcep.fr/?id=6989 # dossier dégroupage
 #VSLIDE
 #### Regulateurs
 ###### ARCEP 
-    Autorité de régulation des communications électroniques et des postes)
-    depuis 1997
+* Autorité de régulation des communications électroniques et des postes - depuis 1997
 
-###### ANFR 
-    Agence nationale des fréquences
-    depuis 1997
+###### ANFR
+* Agence nationale des fréquences - depuis 1997
 
 - - -
 https://www.anfr.fr/
@@ -84,8 +91,7 @@ https://www.arcep.fr
 #HSLIDE
 ##### Le déployment du réseau fibre
 
-    Contrairement a tous les autres réseaux existants(eau, gas, électricité)
-    il n'est pas déployé par un monopole public !
+Contrairement a tous les autres réseaux existants(eau, gas, électricité) il n'est pas déployé par un monopole public !
 
 * Malgré des similarités
   * eau & gaz pour l'aspect voirie
