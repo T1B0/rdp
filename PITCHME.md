@@ -32,7 +32,7 @@
 * 1844 - Télégraphe électrique de Morse
 * 1857 - Pantélégraphe (ancêtre du fax - over Morse !)
 * 1877 - Première ligne téléphonique (Boston)
-* 1902 - Création du mot télécommunication 
+* 1904 - Création du mot télécommunication 
 
 - - -
 https://fr.wikipedia.org/wiki/Histoire_des_t%C3%A9l%C3%A9communications
@@ -51,6 +51,15 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 * Cher (des milliers d'opérateurs sur le réseau)
 * Déploiment compliqué (1 tour/10 - 15 km)
 * Unsecure by design
+
+#VSLIDE
+###### Télecommunication étymologie
+"Télécomunication" (Mot inventé en 1904 à l'ENST)
+* Tele - grec (τηλε-) "Loin"
+* communicare - latin "Partager"
+
+désigne la pratique, pas une science
+
 
 #HSLIDE
 ###### A Brief History
@@ -135,7 +144,7 @@ Le fournisseur d'accès associatif
 * https://blog.fdn.fr/
 
 
-#HSLIDE?image=/img/clinty.jpeg
+#HSLIDE
 ##### La Fibre et la fibre
 "Le monde se divise en 2 catégories ..." Définies par l'ARCEP
 * Zones conventionnées
