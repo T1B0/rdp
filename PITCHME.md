@@ -142,7 +142,7 @@ https://numaparis.ubicast.tv/videos/21-06-2013-201824/
 Le fournisseur d'accès associatif
 * https://www.fdn.fr/
 * https://blog.fdn.fr/
-
+* Fédération fdn https://www.ffdn.org/
 
 #HSLIDE
 ##### La Fibre et la fibre
