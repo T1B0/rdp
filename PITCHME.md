@@ -10,8 +10,8 @@
 #HSLIDE
 ###### A Brief History
 ### le niveau 0
-* ∞ Le poney rutillant (Le messager)
-* 1200 BC Feux de signalisations (Homer l'Odysee)
+* ∞ Le poney rutilant (Le messager)
+* 1200 BC Feux de signalisation (l'Odyssée d'Homer)
 * 700 BC Pigeons utilisés pour les jeux grecs (rfc 1149)
 
 - - -
@@ -29,10 +29,11 @@
 ##### Le grand bricolage
 ###### (mécanique, optique, puis électrique)
 * 1791 - Télégraphe de Chappe
-* 1844 - Télégraphe éléctrique de Morse
-* 1857 - Pantélégraphe (ancetre du fax - over Morse !)
-* 1877 - Première ligne Téléphonique (Boston)
-* 1902 - Création du mot Télécomunication 
+* 1844 - Télégraphe électrique de Morse
+* 1857 - Pantélégraphe (ancêtre du fax - over Morse !)
+* 1877 - Première ligne téléphonique (Boston)
+* 1902 - Création du mot télécommunication 
+
 - - -
 https://fr.wikipedia.org/wiki/Histoire_des_t%C3%A9l%C3%A9communications
 
@@ -48,16 +49,16 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
   * 15 caractères/min
   * PING à 9 min sur Paris-Lille (15 relais)
 * Cher (des milliers d'opérateurs sur le réseau)
-* Deployment compliqué (1 tour/10 - 15 km)
+* Déploiment compliqué (1 tour/10 - 15 km)
 * Unsecure by design
 
 #HSLIDE
 ###### A Brief History
-#### Plus récement ...
-* 1950 - essort des boucles locales cuivre US
+#### Plus récemment ...
+* 1950 - essor des boucles locales cuivre US
 * 1964 - 1ère utilisation du Laser + Fibre Optique (Charles Kao => prix Nobel de physique 2009)
-* 1970 - essort des boucles locales cuivre  EU
-* 1980 - début de l'utilisation de fibre optique dans les backbones opérateurs
+* 1970 - essor des boucles locales cuivre  EU
+* 1980 - début de l'utilisation de la fibre optique dans les backbones opérateurs
 
 #VSLIDE
 ###### A Brief History
@@ -65,7 +66,7 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 
 * 1991 - Oléane ! 1ère offre /ip entreprise
 * 1999 - Netissimo by Wanadoo ! ADSL
-* 2007 - "La Fibre" by orange ! FTTx
+* 2007 - "La Fibre" by Orange ! FTTx
 
 - - -
 http://www.itespresso.fr/fibre-optique-a-domicile-orange-inaugure-sa-premiere-offre-commerciale-17822.html
@@ -73,15 +74,15 @@ https://saamu.wordpress.com/2011/01/13/fai-petite-histoire-du-dploiement-de-lads
 http://www.letenneur.com/histoirefai.htm
 
 #HSLIDE
-#### Infrasctucture Cuivre hérité
+#### Infrastructure Cuivre héritée
 
 * 39 millions de lignes
 * 126 000 sous-répartiteurs
 * 13 000 répartiteurs téléphoniques
 * 18 millions de poteaux (dont 5 millions gérés par ERDF)
 * Un coût de mise en œuvre estimé à 28 milliards d'euros par l'ARCEP
-* rentabilisées milieu dans les années 90 
-* Dégroupé depuis 2002
+* rentabilisée au milieu des années 90 
+* Dégroupée depuis 2002
 
 - - -
 * http://www.arcep.fr/uploads/tx_gspublication/consult-boucle-cuivre0405.pdf
@@ -115,13 +116,13 @@ https://www.arcep.fr
 * http://www.journaldunet.com/0611/061113-ftth.shtml
 
 #HSLIDE
-##### Le déployment du réseau fibre
+##### Le déploiement du réseau fibre
 
-Contrairement à tous les autres réseaux existants (eau, gas, électricité, téléphone) il n'est pas déployé par un monopole public !
+Contrairement à tous les autres réseaux existants (eau, gaz, électricité, téléphone), il n'est pas déployé par un monopole public !
 
 * Aucune mutualisation avec les réseaux :
   * eau & gaz pour l'aspect voirie (mutualisation de tranchées)
-  * électrique pour l'aspect cablage (mutualisation de fourreaux)
+  * électrique pour l'aspect câblage (mutualisation de fourreaux)
 
 - - - 
 https://numaparis.ubicast.tv/videos/21-06-2013-201824/
@@ -129,7 +130,7 @@ https://numaparis.ubicast.tv/videos/21-06-2013-201824/
 #VSLIDE
 ##### La FDN
 ###### French Data Network
-Le fournisseur d'acces associatif
+Le fournisseur d'accès associatif
 * https://www.fdn.fr/
 * https://blog.fdn.fr/
 
@@ -140,9 +141,9 @@ Le fournisseur d'acces associatif
 * Zone conventionnées
   * 60% des logements
   * zone très denses
-  * très rentables
+  * rentables
 * Zone non-conventionnées:
-  * manque d'attractivitée du au cout de déployment
+  * manque d'attractivité dû au coût de déploiement
   * piège des conventions AMII
 
 #VSLIDE
@@ -154,19 +155,19 @@ Le fournisseur d'acces associatif
 http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-avancer/
 
 #HSLIDE
-#### Plusieurs type de deployment
+#### Plusieurs types de déploiment
 * FTTH Fiber To The Home (WE WANT!) 
 * FTTB Fiber To The Building (type "Miséricable" Numéricable)
-* FTTDP Fiber To The Distribution Point ("Montée" en débit VDSL2+)
+* FTTDP Fiber To The Distribution Point ("Montée en débit" VDSL2+)
 
 - - -
 http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne-idee-pour-la-france-39775634.htm
 
 #HSLIDE
 ##### Conclusion T'as Pas La Fibre parce que:
-* t'est toujours plus rentable sur du cuivre - souvent même en zone conventionnée
-* L'investissement nécéssaire est conséquent
-* Un deployement privé experimental
+* t'es toujours plus rentable sur du cuivre - souvent même en zone conventionnée
+* L'investissement nécessaire est conséquent
+* Un deploiement privé expérimental
 * Les Michus s'en foutent (30Mo xDSL vs  50 - 100 Mo FTTx ? surcoût ? Duh)
 
 
