@@ -39,9 +39,9 @@ http://www.culturemobile.net/nouveau-monde-telecoms/histoire-telecoms-1-telegrap
 ###### A Brief History
 #### Internet En France
 
-* 1991 - Oléane ! 1ère offre ip entreprise
-* 1999 - Netissimo by Wanadoo ! 1ère offre ADSL commerciale grand public
-* 2007 - "La Fibre" by orange ! 1èere offre FTTx commerciale grand public
+* 1991 - Oléane ! 1ère offre /ip entreprise
+* 1999 - Netissimo by Wanadoo ! ADSL
+* 2007 - "La Fibre" by orange ! FTTx
 
 - - -
 http://www.itespresso.fr/fibre-optique-a-domicile-orange-inaugure-sa-premiere-offre-commerciale-17822.html
@@ -55,15 +55,27 @@ http://www.letenneur.com/histoirefai.htm
 * 126 000 sous-répartiteurs
 * 13 000 répartiteurs téléphoniques
 * 18 millions de poteaux (dont 5 millions gérés par ERDF)
-* Un coût de mise en œuvre estimé à 28 milliards d'€s par l'ARCEP
+* Un coût de mise en œuvre estimé à 28 milliards d'euros par l'ARCEP
 * rentabilisées milieu dans les années 90 
 * Dégroupé depuis 2002
 
 - - -
-http://www.arcep.fr/?id=6989
+http://www.arcep.fr/uploads/tx_gspublication/consult-boucle-cuivre0405.pdf
+http://www.arcep.fr/?id=6989 # dossier dégroupage
 
 #VSLIDE
-#### ARCEP
+#### Regulateurs
+###### ARCEP 
+    Autorité de régulation des communications électroniques et des postes)
+    depuis 1997
+
+###### ANFR 
+    Agence nationale des fréquences
+    depuis 1997
+
+- - -
+https://www.anfr.fr/
+https://www.arcep.fr
 
 #HSLIDE
 # MAIS Pourquoi J'aI PAS LA FIBRE ?
@@ -72,12 +84,12 @@ http://www.arcep.fr/?id=6989
 #HSLIDE
 ##### Le déployment du réseau fibre
 
-Contrairement a tous les autres réseaux existants(eau, gas, électricité)
-il n'est pas déployé par un monopole public !
+    Contrairement a tous les autres réseaux existants(eau, gas, électricité)
+    il n'est pas déployé par un monopole public !
 
-* Malgré les similarités
-  * réseau eau & gaz pour l'aspect voirie
-  * au réseau électrique pour l'aspect cablage
+* Malgré des similarités
+  * eau & gaz pour l'aspect voirie
+  * électrique pour l'aspect cablage
 
 - - - 
 https://numaparis.ubicast.tv/videos/21-06-2013-201824/
