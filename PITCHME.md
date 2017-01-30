@@ -165,11 +165,11 @@ http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne
 #HSLIDE
 ##### Conclusion
 
-#######T'as Pas La Fibre parce que:
+###### T'as Pas La Fibre parce que:
 * t'est toujours plus rentable sur du cuivre - souvent même en zone conventionnée
 * L'investissement nécéssaire est conséquent
 * Un deployement privé experimental
-* Les Michus s'en foutent (30Mo ? 100 Mo ? Duh)
+* Les Michus s'en foutent (30Mo xDSL vs  50 - 100 Mo FTTx ? surcoût ? Duh)
 
 
 #HSLIDE
