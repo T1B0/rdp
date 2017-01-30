@@ -134,7 +134,7 @@ Le fournisseur d'acces associatif
 * https://blog.fdn.fr/
 
 
-#HSLIDE?image=/img/gbu.jpeg
+#HSLIDE?image=/img/clinty.jpeg
 ##### La Fibre et la fibre
 "Le monde se divise en 2 catégories ..." Définies par l'ARCEP
 * Zone conventionnées
