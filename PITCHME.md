@@ -187,7 +187,7 @@ http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne
 * arcep http://arcep.fr
 * franceTHD https://francethd.fr/
 * cidr http://www.cidr-report.org/as2.0/
-* iana & icann http://iana.org/ & https://www.icann.org/
+* iana & afnic http://iana.org/ & http://www.afnic.fr
 * ietf http://ietf.org/
 
 #VSLIDE
