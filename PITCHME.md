@@ -163,11 +163,12 @@ http://blog.spyou.org/wordpress-mu/2016/12/07/memo-a-lusage-de-ceux-qui-veulent-
 http://www.zdnet.fr/blogs/infra-net/le-tres-haut-debit-en-vdsl2-une-fausse-bonne-idee-pour-la-france-39775634.htm
 
 #HSLIDE
-###### Conclusion
+##### Conclusion
 
-* Un abonné est toujours plus rentable sur du cuivre, souvent même en zone conventionnée
+#######T'as Pas La Fibre parce que:
+* t'est toujours plus rentable sur du cuivre - souvent même en zone conventionnée
 * L'investissement nécéssaire est conséquent
-* Deployements privés - très peu orchestrés ou chapeautés
+* Un deployement privé experimental
 * Les Michus s'en foutent (30Mo ? 100 Mo ? Duh)
 
 
